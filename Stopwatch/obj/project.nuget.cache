@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i4n2zsT9Cf09qqKzwY5a4qZwVhMbRhd/zD3I1nun/XsApUiw9rUMAZaFh8hQXXgf5iFwB2BR7vAh3LE6nyjhrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bruno.muniz\\Desktop\\Stopwatch\\Stopwatch\\Stopwatch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno.muniz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
